@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IzNjY3N2M0MGJhOWE3MDRkNDcyZmI2NTQwYTU4ZDBkNzg5Y2I4MSZjdD1z/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250" height="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/tsvetomir-hristov-a35071228">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/profile.php?id=100014919491758">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
