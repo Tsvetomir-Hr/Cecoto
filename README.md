@@ -17,5 +17,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 :technologist: About Me :
-- My name is Tsvetomir Hristov and i'm learing Web Development with C#
+- My name is Tsvetomir Hristov and i'm Junior .NET Developer.
 
