@@ -19,8 +19,3 @@
 :technologist: About Me :
 - My name is Tsvetomir Hristov and i'm learing Web Development with C#
 
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cecoto&theme=dark&background=000000)]
-
